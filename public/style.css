@@ -1,0 +1,18 @@
+.fontstyle{
+    font-family: 'Courier New', Courier, monospace;
+    display: inline;
+}
+.marginZero{
+    margin: 0;
+}
+
+.buttonposition {
+    margin-left: 94%;
+}
+
+@media(max-width:800px){
+    .buttonposition{
+        margin-left: 90%;
+        display: flex;
+    }
+}

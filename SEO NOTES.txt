@@ -1,0 +1,90 @@
+WHAT IS SEO?
+SEO meaning is Search engine optimization (SEO).It is a set of rules for improve the appearance and positioning of 
+web pages in organic search results.(example) considar 100 meter race. who will come the first place in the race.
+That winner is comes first with the help of practice(helping tool is SEO)
+
+WHY SEO NEED?
+SEO is crucial because it makes your website more visible, 
+and that means more traffic and more opportunities to convert prospects into customers.
+
+WHAT IS MAIN CONCEPT IN SEO OR PILLER OF SEO?
+There are 3 main concept in seo.list given below
+1.onpage seo
+2.ofpage seo
+3.technical seo
+
+
+1.WHAT IS ONPAGE SEO?
+On-page SEO (also called on-site SEO) is the process of optimizing your webpage content for search engines and users.
+
+cheklist for onpage seo optimization.
+
+1. Title Tags
+2. Description Tags
+3. Headings Tags
+4. Language Tags
+5. Hreflang Tags
+6. Open Graph Meta Tags
+7. Twitter Card Meta Tags
+8. Canonical Tags Optimization
+9. Robots Tags Optimization
+10.Image Optimization
+11.Voice Search Optimization
+12.Keyword Cannibalization
+13.Video Optimization
+14.Internal Links Optimization
+15.SEO-Friendly URL Structure Optimization
+16.Schema Markup Optimization
+17.External Or Outbound Links Optimization
+
+
+2.WHAT IS OFFPAGE SEO?
+Off-page SEO" (also called "off-site SEO") refers to actions taken outside of your own website to 
+impact your rankings within search engine results pages (SERPs) 
+and to influence how people discover and engage with your content.
+
+checklist for offpage seo optimization.
+
+Blog Submission
+Article Submission
+Social Bookmark submisson
+Guest Posting
+Comment Posting
+PPT Submission
+Video Submission
+Info-Graphic Submission
+Image Submission
+Forum Submission
+RSS Feed Submission
+Press Release Submission
+Newsletters
+Google My Business
+Directory Submission
+
+
+3.WHAT IS TECHNICAL SEO?
+Technical SEO is the process of optimizing a website for search engines, 
+but it can also include activities meant to improve user experience.
+
+checklist for technical seo optimization.
+
+Google Search Console Setup
+Google Analytics Setup
+Bing Webmaster Tools Setup
+What is .htaccess File
+Secure Website Using SSL
+Permanent Redirects(301)
+Temporary Redirects(302)
+Robots.txt file setup
+Custom 404 Redirections
+XML Sitemap Submission
+Remove Outdated Content in SERP
+Request New Page For Index
+Find and Fix Broken Links
+Find and Fix Duplicate Content
+Minify Techniques
+Page Speed Test
+Mobile-Friendly Test
+
+
+
