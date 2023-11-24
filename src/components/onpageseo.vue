@@ -13,7 +13,11 @@
         <h3>
             checklist for onpage seo optimization.
         </h3>
-        <p v-for="(i, index) in onPageCheckList" v-bind:key="i">{{ `${index + 1}.${i}` }}</p>
+        <el-collapse>
+            <el-collapse-item v-for="i in onPageCheckList" v-bind:key="i" :title="i">
+                <p>{{ i }}</p>
+            </el-collapse-item>
+        </el-collapse>
         <el-row class='twoPages'>
             <el-row class="seo3PagesSize" v-on:click.native="goToOffPageSeo()">
                 <h3>OFFPAGE</h3>
@@ -102,5 +106,4 @@ export default {
         }
     }
 
-}
-</style>
+}</style>
